@@ -1,1 +1,0 @@
-CNN project folder
